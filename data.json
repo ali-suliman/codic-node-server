@@ -1,0 +1,76 @@
+{
+  "courses": [
+    {
+      "courseName": "Intro",
+      "courseLink": "//aka.ms/ampembed?url=https://endpoint-codicmediasvc-euwe.streaming.media.azure.net/f9616233-1f5b-48be-b6ec-6b2c83ff8369/L101intro.ism/manifest"
+    },
+    {
+      "courseName": "Variables",
+      "courseLink": "//aka.ms/ampembed?url=https://endpoint-codicmediasvc-euwe.streaming.media.azure.net/3d98cded-9429-400f-af04-f701509c984e/L102Variables.ism/manifest"
+    },
+    {
+      "courseName": "Constants",
+      "courseLink": "//aka.ms/ampembed?url=https://endpoint-codicmediasvc-euwe.streaming.media.azure.net/da86ea8d-a8bf-4642-979c-c7b086219d95/L103Constants.ism/manifest"
+    },
+    {
+      "courseName": "Operators",
+      "courseLink": "//aka.ms/ampembed?url=https://endpoint-codicmediasvc-euwe.streaming.media.azure.net/4ddac06f-5d3c-4ca7-bf02-3fde79d5ef7a/L104Operators.ism/manifest"
+    },
+    {
+      "courseName": "Methods",
+      "courseLink": "//aka.ms/ampembed?url=https://endpoint-codicmediasvc-euwe.streaming.media.azure.net/3d888a1b-c4ff-4a8b-9186-d5a124318c67/L105Methods.ism/manifest"
+    },
+    {
+      "courseName": "Class and Members a firstlook",
+      "courseLink": "//aka.ms/ampembed?url=https://endpoint-codicmediasvc-euwe.streaming.media.azure.net/f541ed21-d213-455a-8738-0db2ee24ea89/L106ClassandMembers,afirstlook.ism/manifest"
+    },
+    {
+      "courseName": "Frameworks",
+      "courseLink": "//aka.ms/ampembed?url=https://endpoint-codicmediasvc-euwe.streaming.media.azure.net/c5f5d069-587a-407b-aefa-cc43a9cd5333/L107Frameworks.ism/manifest"
+    },
+    {
+      "courseName": "If and else",
+      "courseLink": "//aka.ms/ampembed?url=https://endpoint-codicmediasvc-euwe.streaming.media.azure.net/6830228f-7a2b-4264-bbef-7093e9fc14f2/L108IfandElse.ism/manifest"
+    },
+    {
+      "courseName": "Switch enum",
+      "courseLink": "//aka.ms/ampembed?url=https://endpoint-codicmediasvc-euwe.streaming.media.azure.net/f49ca5ec-4d57-42d2-ab20-4dffbab28db5/L201Switch_Enum.ism/manifest"
+    },
+    {
+      "courseName": "Arrays",
+      "courseLink": "//aka.ms/ampembed?url=https://endpoint-codicmediasvc-euwe.streaming.media.azure.net/3715f766-c689-42fd-ad83-aae348dea590/L202Arrays_for.ism/manifest"
+    },
+    {
+      "courseName": "Referencevs value",
+      "courseLink": "//aka.ms/ampembed?url=https://endpoint-codicmediasvc-euwe.streaming.media.azure.net/428d2ab8-de2e-42ab-8e98-8b61eb62ff5c/L203ReferencevsValue.ism/manifest"
+    },
+    {
+      "courseName": "List and foreach",
+      "courseLink": "//aka.ms/ampembed?url=https://endpoint-codicmediasvc-euwe.streaming.media.azure.net/2ca1b600-f7c0-43e5-88d8-c8e3dde0543c/L204List_foreach.ism/manifest"
+    },
+    {
+      "courseName": "Strings and dowhile",
+      "courseLink": "//aka.ms/ampembed?url=https://endpoint-codicmediasvc-euwe.streaming.media.azure.net/567d6149-f8c8-4790-a85a-6c6c15e1ff51/L205string6dowhile.ism/manifest"
+    },
+    {
+      "courseName": "Dictionary",
+      "courseLink": "//aka.ms/ampembed?url=https://endpoint-codicmediasvc-euwe.streaming.media.azure.net/1734d973-b909-40bc-8f93-a2a11f0bfbdd/L206Dictionary.ism/manifest"
+    },
+    {
+      "courseName": "Demo of a small program",
+      "courseLink": "//aka.ms/ampembed?url=https://endpoint-codicmediasvc-euwe.streaming.media.azure.net/21f67d71-981d-408e-bd00-54f871dec72e/L207Demoofasmallprogram.ism/manifest"
+    },
+    {
+      "courseName": "Class vs objects and static",
+      "courseLink": "//aka.ms/ampembed?url=https://endpoint-codicmediasvc-euwe.streaming.media.azure.net/32ef4c3d-fd4e-4d4f-b512-6ed6a12ba192/L301classvsobjectsandstatic.ism/manifest"
+    },
+    {
+      "courseName": "Class vs struct",
+      "courseLink": "//aka.ms/ampembed?url=https://endpoint-codicmediasvc-euwe.streaming.media.azure.net/8b9b1ecd-5809-4c41-b192-1f32ee72bcc0/L302classvsstruct.ism/manifest"
+    },
+    {
+      "courseName": "OOP",
+      "courseLink": "//aka.ms/ampembed?url=https://endpoint-codicmediasvc-euwe.streaming.media.azure.net/f6366be6-a380-404f-b489-1a9d1cb3b95c/L303OOP.ism/manifest"
+    }
+  ]
+}
